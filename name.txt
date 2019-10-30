@@ -1,0 +1,11 @@
+Arpit Jain, leader of the free world... jodl
+
+git rebase
+git rebase -i
+git cherry pick
+
+git stash
+git reflog
+git reset (hard, soft, moderate)
+
+Intro to Git and GitHub - Udacity
